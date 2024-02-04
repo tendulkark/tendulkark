@@ -67,6 +67,8 @@
   </a>
 </p>
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/manotendulkar">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manotendulkar&theme=radical" alt="Tendulkar's GitHub Contribution"/>
