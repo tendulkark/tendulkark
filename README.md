@@ -1,4 +1,4 @@
-<h3 align="center">Hey There!, I am 
+ <h3 align="center">Hey There!, I am 
   <strong><a target="_blank" href="https://tendulkar-dev.vercel.app/">Tendulkar Karthikeyan</a></strong>
 </h3>
 
@@ -8,6 +8,11 @@
   </samp>
 </p>
 
+<!--
+<p>Tech Stack</p>
+<hr>
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,antdesign,git" alt="html" />
+-->
 
 <p align="center">
  <a href="https://tendulkar-dev.vercel.app/" target="blank">
