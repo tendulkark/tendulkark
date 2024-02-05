@@ -32,6 +32,7 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: tendulkaroffcl@gmail.com<br/><br/>
 🔭 &emsp; I’m currently working on **E-Commerce Website**<br/><br/>
+🌱 &emsp; I’m currently learning **Tailwind css, TypeScript**<br/><br/>
 💬 &emsp; Ask me about **React, SCSS, Redux**
 
 </p>
