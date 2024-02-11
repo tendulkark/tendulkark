@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a frontend React developer based in <b>India</b> 」
+    「 I am a frontend React developer based in <b>Vellore, Tamilnadu, India</b> 」
   </samp>
 </p>
 
