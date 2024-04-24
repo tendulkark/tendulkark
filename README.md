@@ -58,9 +58,10 @@
 <br/>
 
 ## Projets Repo
-[![crypto-harbor](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=crypto-harbor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/crypto-harbor)
-[![weather-page](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=weather-page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/weather-page)
-[![urbankicks](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=urbankicks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/urbankicks)
+[![cine-sync](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=cine-sync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tendulkark/cine-sync)
+[![crypto-harbor](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=crypto-harbor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tendulkark/crypto-harbor)
+[![weather-page](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=weather-page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tendulkark/weather-page)
+[![urbankicks](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=urbankicks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tendulkark/urbankicks)
 
 <p align="left">
   <a href="https://github.com/tendulkark?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
