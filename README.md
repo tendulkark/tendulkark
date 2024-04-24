@@ -58,12 +58,12 @@
 <br/>
 
 ## Projets Repo
-[![crypto-harbor](https://github-readme-stats.vercel.app/api/pin/?username=manotendulkar&repo=crypto-harbor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/crypto-harbor)
-[![weather-page](https://github-readme-stats.vercel.app/api/pin/?username=manotendulkar&repo=weather-page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/weather-page)
-[![urbankicks](https://github-readme-stats.vercel.app/api/pin/?username=manotendulkar&repo=urbankicks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/urbankicks)
+[![crypto-harbor](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=crypto-harbor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/crypto-harbor)
+[![weather-page](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=weather-page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/weather-page)
+[![urbankicks](https://github-readme-stats.vercel.app/api/pin/?username=tendulkark&repo=urbankicks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manotendulkar/urbankicks)
 
 <p align="left">
-  <a href="https://github.com/manotendulkar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/tendulkark?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/manotendulkar">
+  <a href="https://github.com/tendulkark">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manotendulkar&theme=radical&border=7F3FBF&background=0D1117" alt="Tendulkar's Streak"/>
   </a>
 </p>
@@ -80,14 +80,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/manotendulkar">
+  <a href="https://github.com/tendulkark">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manotendulkar&theme=radical" alt="Tendulkar's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/manotendulkar"><img alt="Tendulkar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manotendulkar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/manotendulkar"><img alt="Tendulkar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manotendulkar&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/tendulkark"><img alt="Tendulkar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=manotendulkar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/tendulkark"><img alt="Tendulkar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=manotendulkar&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
